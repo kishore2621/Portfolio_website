@@ -2,14 +2,7 @@
 
 Welcome to my portfolio! This repository contains all the projects and work samples that demonstrate my skills and experience as a developer.
 
-## Table of Contents
 
-- [About Me](#about-me)
-- [Projects](#projects)
-  - [Project 1](#project-1)
-  - [Project 2](#project-2)
-  - [Project 3](#project-3)
-- [Contact](#contact)
 
 ## About Me
 
