@@ -18,7 +18,7 @@ Hello! I'm kishore, a passionate developer with a love for creating innovative s
 ### Project 2: foodie website
 - **Description**: copy website guidence of google
 - **Technologies**: HTML,CSS,JAVA SCRIPT.
-- **Link**: [Project Demo/Repo Link](#)
+- **Link**: https://github.com/kishore2621/Foodie-Website
 
 
 
@@ -27,7 +27,7 @@ Hello! I'm kishore, a passionate developer with a love for creating innovative s
 Feel free to reach out to me through the following channels:
 
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/kishore-v-an2126)
-- **GitHub**: [MY GitHub Profile](https://github.com/kishore2621)
+- **LinkedIn**: https://www.linkedin.com/in/kishore-v-an2126
+- **GitHub**: https://github.com/kishore2621
 
 Thank you for visiting my portfolio!
